@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T13:45:09.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="TyIvo_JRtwVpzHFW_bPg" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-09T13:45:16.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="XE1hYt2rbLiy7Bqyv8qS" version="24.5.2" type="github">
   <diagram name="Page-1" id="7ZI6FeS_xlNIQGt1seG3">
     <mxGraphModel dx="1839" dy="1750" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6885,8 +6885,8 @@
         <mxCell id="X40wSVEv6DkRMqJgnmAs-109" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="3335.5" y="-973" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="X40wSVEv6DkRMqJgnmAs-111" value="Bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="3333" y="-1025" width="40" height="30" as="geometry" />
+        <mxCell id="X40wSVEv6DkRMqJgnmAs-111" value="Bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="3337.5" y="-1025" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="X40wSVEv6DkRMqJgnmAs-112" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -6977,6 +6977,9 @@
         </mxCell>
         <mxCell id="X40wSVEv6DkRMqJgnmAs-140" value="VLOAD AND VSTORE&lt;div&gt;Visualing the array and the waveform signal&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2859.5" y="-1110" width="255" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="X40wSVEv6DkRMqJgnmAs-141" value="Vector Register" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3259" y="-1035" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
