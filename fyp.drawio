@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T14:29:30.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="mf_u2NMEIZb7UWDGvMoi" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-09T17:03:29.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="a_nmnamThADsjops1rfX" version="24.5.2" type="github">
   <diagram name="Page-1" id="7ZI6FeS_xlNIQGt1seG3">
-    <mxGraphModel dx="1707" dy="1674" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2384" dy="2063" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7048,12 +7048,12 @@
             <mxPoint x="14" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X40wSVEv6DkRMqJgnmAs-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X40wSVEv6DkRMqJgnmAs-155" target="X40wSVEv6DkRMqJgnmAs-160">
+        <mxCell id="X40wSVEv6DkRMqJgnmAs-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X40wSVEv6DkRMqJgnmAs-155" target="X40wSVEv6DkRMqJgnmAs-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X40wSVEv6DkRMqJgnmAs-174" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="X40wSVEv6DkRMqJgnmAs-161">
           <mxGeometry x="-0.4209" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X40wSVEv6DkRMqJgnmAs-155" value="Is VMU ready?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -7071,19 +7071,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X40wSVEv6DkRMqJgnmAs-160" value="Store VMU instruction in buffer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3645" y="-790" width="85" height="55" as="geometry" />
+          <mxGeometry x="3732.5" y="-788" width="85" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="X40wSVEv6DkRMqJgnmAs-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X40wSVEv6DkRMqJgnmAs-164" target="X40wSVEv6DkRMqJgnmAs-166">
+        <mxCell id="X40wSVEv6DkRMqJgnmAs-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X40wSVEv6DkRMqJgnmAs-164" target="X40wSVEv6DkRMqJgnmAs-160">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3857.5" y="-790" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3880" y="-825" />
-              <mxPoint x="3858" y="-825" />
+              <mxPoint x="3796" y="-825" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X40wSVEv6DkRMqJgnmAs-211" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="X40wSVEv6DkRMqJgnmAs-210">
           <mxGeometry x="-0.3876" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X40wSVEv6DkRMqJgnmAs-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X40wSVEv6DkRMqJgnmAs-164" target="X40wSVEv6DkRMqJgnmAs-165">
@@ -7108,16 +7109,14 @@
         <mxCell id="X40wSVEv6DkRMqJgnmAs-165" value="Push VCU instruction to scoreboard" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="3985" y="-790" width="85" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="X40wSVEv6DkRMqJgnmAs-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X40wSVEv6DkRMqJgnmAs-166" target="X40wSVEv6DkRMqJgnmAs-164">
+        <mxCell id="X40wSVEv6DkRMqJgnmAs-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X40wSVEv6DkRMqJgnmAs-160" target="X40wSVEv6DkRMqJgnmAs-164">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3900" y="-760" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="3943" y="-763" />
               <mxPoint x="3943" y="-760" />
-              <mxPoint x="3943" y="-792" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="X40wSVEv6DkRMqJgnmAs-166" value="Store VCU instruction in buffer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3815" y="-790" width="85" height="55" as="geometry" />
         </mxCell>
         <mxCell id="X40wSVEv6DkRMqJgnmAs-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X40wSVEv6DkRMqJgnmAs-181" target="X40wSVEv6DkRMqJgnmAs-185">
           <mxGeometry relative="1" as="geometry" />
